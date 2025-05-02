@@ -1,7 +1,7 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 ### Name: Dharshini J
 ### Register Number:212224240036
-### DATE: 
+### DATE: 02/5/2025
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
